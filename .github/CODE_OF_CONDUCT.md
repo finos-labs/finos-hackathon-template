@@ -1,3 +1,3 @@
-# Code of Conduct for FINOS dtcc Hack Event
+# Code of Conduct for FINOS Hackathon Event
 
 Please see the [Community Code of Conduct](https://www.finos.org/code-of-conduct).

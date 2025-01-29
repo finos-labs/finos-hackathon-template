@@ -1,6 +1,6 @@
-# Contributing to the FINOS dtcc Hackathon
+# Contributing to the FINOS Hackathon
 
-The FINOS DTCC Hackathon is [Apache 2.0 licensed](LICENSE) and accepts contributions via git pull requests. Each commit must include a DCO line in the git commit message:
+The FINOS Hackathon is [Apache 2.0 licensed](LICENSE) and accepts contributions via git pull requests. Each commit must include a DCO line in the git commit message:
 
 `Signed-off-by: GitHub User Name <your.email@example.com>`
 
